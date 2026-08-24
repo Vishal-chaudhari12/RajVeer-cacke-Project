@@ -6,6 +6,7 @@ const app = express();
 const allowedOrigins = [
     process.env.FRONTEND_URL,
     "https://rajveer-cake-4ti2.onrender.com",
+    "https://raj-veer-cake.vercel.app",
     "http://localhost:5173",
     "http://localhost:3000",
     "http://localhost:4200",
