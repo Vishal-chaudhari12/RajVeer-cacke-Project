@@ -5,6 +5,7 @@ const app = express();
 
 const allowedOrigins = [
     process.env.FRONTEND_URL,
+    "https://rajveer-cake-4ti2.onrender.com",
     "http://localhost:5173",
     "http://localhost:3000",
     "http://localhost:4200",
